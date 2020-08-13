@@ -1,16 +1,22 @@
-### Hi there 👋
+### 欢迎啦
+#### 我是什么垃圾?
+- 臭 DD
+- 某站 UWP 开发
+- 菜鸡
+- 初中生 (这个绝对是真的)
 
-<!--
-**Misaka-L/Misaka-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 我现在在干嘛？
+- VTuberMusic UWP 客户端开发 (非开源项目)
+- [Vrc 转换器 GUI](https://github.com/vtbmusic/Vrc-Convert-GUI)
+- 打电动
+- dd
+- 上学
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 怎么找到我？
+- Bilibili: [Misaka-L Uid: 64514574](https://space.bilibili.com/64514574)
+- Guestbook: [misakal.xyz/GuestBook](https://misakal.xyz/GuestBook)
+- Website: [misakal.xyz](https://misakal.xyz)
+- Email (不一定会看到):
+ - [lipww1234@foxmail.com](mailto:lipww1234@foxmail.com)
+ - [lipww1234@163.com](mailto:lipww1234@163.com)
+ - [misaka-l@vtbmusic.icu](mailto:misaka-l@vtbmusic.icu)
