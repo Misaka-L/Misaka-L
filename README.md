@@ -17,6 +17,6 @@
 - Guestbook: [misakal.xyz/GuestBook](https://misakal.xyz/GuestBook)
 - Website: [misakal.xyz](https://misakal.xyz)
 - Email (不一定会看到):
- * [lipww1234@foxmail.com](mailto:lipww1234@foxmail.com)
- * [lipww1234@163.com](mailto:lipww1234@163.com)
- * [misaka-l@vtbmusic.icu](mailto:misaka-l@vtbmusic.icu)
+  * [lipww1234@foxmail.com](mailto:lipww1234@foxmail.com)
+  * [lipww1234@163.com](mailto:lipww1234@163.com)
+  * [misaka-l@vtbmusic.icu](mailto:misaka-l@vtbmusic.icu)
