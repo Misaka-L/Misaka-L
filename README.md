@@ -6,7 +6,7 @@
 - 初中生 (这个绝对是真的)
 
 #### 我现在在干嘛？
-- VTuberMusic UWP 客户端开发 (非开源项目)
+- [VTuberMusic UWP 客户端开发](https://github.com/vtbmusic/VTuberMusic-UWP)
 - [Vrc 转换器 GUI](https://github.com/vtbmusic/Vrc-Convert-GUI)
 - 打电动
 - dd
