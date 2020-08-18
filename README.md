@@ -20,3 +20,6 @@
   * [lipww1234@foxmail.com](mailto:lipww1234@foxmail.com)
   * [lipww1234@163.com](mailto:lipww1234@163.com)
   * [misaka-l@vtbmusic.icu](mailto:misaka-l@vtbmusic.icu)
+
+# 去你XX的路过图床，老子什么都没干就发 Issues 把老子号 ban 了。之前帖子发的图废了一大把
+![6EB0~5V3W3HK14KX)U%PFWM.png](https://i.loli.net/2020/08/18/FaoV6K9YRMiZ4uX.png)
