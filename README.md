@@ -8,7 +8,8 @@
 #### 我现在在干嘛？
 - [VTuberMusic UWP 客户端开发](https://github.com/vtbmusic/VTuberMusic-UWP)
 - [Vrc 转换器 GUI](https://github.com/vtbmusic/Vrc-Convert-GUI)
-- 摸着石头过河![摸着石头过河](https://i.loli.net/2020/10/18/sDKq7TzxcHt8Olh.png)
+- 摸着石头过河![摸着石头过河](https://i.loli.net/2020/10/18/sDKq7TzxcHt8Olh.png)  
+[为了防止你们加载不了图片，点击这里在 sm.ms 查看图片](https://i.loli.net/2020/10/18/sDKq7TzxcHt8Olh.png)
 - dd
 - 上学
 
