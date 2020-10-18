@@ -3,12 +3,12 @@
 - 臭 DD
 - 某站 UWP 开发
 - 菜鸡
-- 初中生 (这个绝对是真的)
+- 初中生
 
 #### 我现在在干嘛？
 - [VTuberMusic UWP 客户端开发](https://github.com/vtbmusic/VTuberMusic-UWP)
 - [Vrc 转换器 GUI](https://github.com/vtbmusic/Vrc-Convert-GUI)
-- 打电动
+- 摸着石头过河![摸着石头过河](https://i.loli.net/2020/10/18/sDKq7TzxcHt8Olh.png)
 - dd
 - 上学
 
