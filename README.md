@@ -6,7 +6,7 @@
 - 高一新生
 
 ### 我现在在干嘛？
-- VtuberMusic ~~UWP~~ Windows (WinUI) 3 客户端
+- VtuberMusic ~~UWP~~ Windows (WinUI 3) 客户端
 - KOOK (原开黑啦) 机器人 "匿名姬" 开发维护 [仓库](https://github.com/Misaka-L/NamelessBot)
 - FunnyBot, DataCollector, AutoFAQ (自动问答) 等 KOOK (原开黑啦) 机器人的开发和维护 (详见 [BotMarket](https://www.botmarket.cn/))
 - 摸着石头过河
