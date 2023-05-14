@@ -7,7 +7,7 @@
 - ~~臭 DD~~（目前已经几乎不看 v 了）
 
 ### 我现在在干嘛？
-- [VAU320](https://github.com/Heriyadi235/VAU320) 航电开发
+- [VAU320](https://github.com/vrcau/VAU320) 航电开发
 - KOOK (原开黑啦) 机器人 "匿名姬" 开发维护 [仓库](https://github.com/Misaka-L/NamelessBot)
 - FunnyBot, DataCollector, AutoFAQ (自动问答) 等 KOOK (原开黑啦) 机器人的开发和维护 (详见 [BotMarket](https://www.botmarket.cn/))
 - 摸着石头过河
